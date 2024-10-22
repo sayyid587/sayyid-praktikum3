@@ -3,11 +3,11 @@
 
 ### Flowchart
 dalam bentuk flowchart <p>
-![gambar 1](screenshot/ss1)
+![gambar 1](screenshot/ss1.png)
 
 ### Program python
 dalam bentuk program python 
-![gambar 2](screenshot/ss2)
+![gambar 2](screenshot/ss2.png)
 
 ### hasil eksekusi program
-![gambar 3](screenshot/ss3)
+![gambar 3](screenshot/ss3.png)
